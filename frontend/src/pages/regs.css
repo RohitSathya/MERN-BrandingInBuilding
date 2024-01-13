@@ -1,0 +1,95 @@
+.login{
+    display: flex;
+    flex-direction: row;
+    
+}
+body{
+    background-color: plum;
+}
+.box1{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 540px;
+    border-radius: 20px;
+    margin-left: 550px;
+    margin-top: 250px;
+}
+.box2{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+   
+    width: 500px;
+    height: 540px;
+    border-radius: 20px;
+    margin-left: 0px;
+    margin-top: 250px;
+    
+}
+.i1{
+    height: 100%;
+    width: 100%;
+   
+}
+h1{
+    
+    color: rgba(0, 0, 0, 0.699);
+    margin-top: 160px;
+    margin-left: 40px;
+ 
+}
+input {
+    
+    
+    width: 450px;
+    height: 50px;
+    border-bottom-color: red;
+    border-top-color:chartreuse ;
+    border-left-color:rgb(141, 121, 7) ;
+    border-right-color:blue ;
+    margin-left: 20px;
+    border-radius: 10px;
+   
+}
+.ip1{
+    padding-left: 30px;
+    font-size: 20px;
+   
+    box-sizing: border-box;
+}
+.ip2{
+    padding-left: 30px;
+    font-size: 20px;
+    margin-top: 30px;
+    box-sizing: border-box;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(77, 0, 128);
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.b1{
+    color: rgba(255, 255, 255, 0.815);
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 50px;
+}
+.p2{
+    color: darkorchid;
+    font-weight: 500;
+    font-size: 20px;
+     margin-left: 20px;
+}
+.b2{
+    background-color: violet;
+    color: rgba(255, 255, 255, 0.815);
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 50px;  
+    margin-top: -10px;
+}
